@@ -21,3 +21,12 @@
 #### Assess the performance of the loan default risk prediction model using appropriate evaluation metrics. Common metrics include accuracy, precision, recall, F1-score, ROC curve, and AUC (Area Under the Curve).
 ## Interpretability & Reporting:
 #### Provide interpretability for the model's predictions and create reports that offer insights into the risk assessment process. Transparency and interpretability are crucial when dealing with financial decisions
+
+![Screenshot (73)](https://github.com/rameshkumar359/Loan-Default-prediction/assets/96288285/22a7c92e-4c79-42fb-b3f6-3b5ee89520d8)
+
+![Screenshot (74)](https://github.com/rameshkumar359/Loan-Default-prediction/assets/96288285/73f1597e-0866-4de9-8093-235f4104e330)
+![Screenshot (75)](https://github.com/rameshkumar359/Loan-Default-prediction/assets/96288285/0d8dad1a-32f7-4991-9cdc-47e39a0b8cd5)
+![outputrff](https://github.com/rameshkumar359/Loan-Default-prediction/assets/96288285/e2cb7b6d-780a-432d-85e9-701fd98788fd)
+![output](https://github.com/rameshkumar359/Loan-Default-prediction/assets/96288285/e1c18133-c530-46e0-84d1-47abfcb747a6)
+
+
